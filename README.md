@@ -99,13 +99,6 @@ Full-stack Flutter ordering system for any shop or business. Real-time admin das
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ZAW3AA&show_icons=true&theme=github_dark&bg_color=02030a&border_color=00ffe7&title_color=00ffe7&icon_color=0066ff&text_color=e0f0ff&hide_border=false&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAW3AA&layout=compact&theme=github_dark&bg_color=02030a&border_color=00ffe7&title_color=00ffe7&text_color=e0f0ff&hide_border=false" />
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ZAW3AA&theme=github-dark-blue&background=02030a&border=00ffe7&stroke=0066ff&ring=00ffe7&fire=ff006a&currStreakNum=00ffe7&sideNums=e0f0ff&currStreakLabel=0066ff&sideLabels=6080a0&dates=6080a0)
 
 </div>
