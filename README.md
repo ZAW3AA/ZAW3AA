@@ -58,7 +58,7 @@ Admins get a full dashboard for products, categories, orders, users, inventory, 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZAW3AA&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=ZAW3AA&theme=tokyonight&hide_border=true)
 
 ---
 
