@@ -2,7 +2,7 @@
 
 **Flutter Developer** | 3rd Year CS Student | Minya, Egypt
 
-> Building cross-platform apps & exploring AI in mobile
+> Building production-grade cross-platform apps & exploring AI in mobile
 
 ---
 
@@ -35,12 +35,13 @@ Admins get a full dashboard for products, categories, orders, users, inventory, 
 
 ---
 
-## 📲 Published on Google Play
+## 📲 Published on Google Play — 3 Apps · 349 Users
 
-| App | Status |
+| App | Users |
 |---|---|
-| MN - CS1 | ✅ Live |
-| MN - CS2 | ✅ Live |
+| MN – CS1 | 278 users |
+| MN – CS2 | 68 users |
+| ZEXO | 3 testers (open testing) |
 
 ---
 
@@ -48,7 +49,7 @@ Admins get a full dashboard for products, categories, orders, users, inventory, 
 
 | Project | Description | Tech |
 |---|---|---|
-| [MotoRent](https://github.com/ZAW3AA/MotoRent) | 🚗 Car rental platform | Flutter · C++ |
+| [MotoRent](https://github.com/ZAW3AA/MotoRent) | 🚗 Car rental platform | Flutter |
 | [EasyGPS](https://github.com/ZAW3AA/EasyGPS) | 📍 Real-time GPS tracking | Flutter · Maps |
 | [EasyTaskToDo](https://github.com/ZAW3AA/EasyTaskToDo-flutter) | ✅ Clean To-Do app | Flutter |
 | [EasyCalculator](https://github.com/ZAW3AA/EasyCalculator) | 🔢 Calculator app | C++ |
@@ -58,8 +59,8 @@ Admins get a full dashboard for products, categories, orders, users, inventory, 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://streak-stats.demolab.com?user=ZAW3AA&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=ZAW3AA&theme=tokyonight&hide_border=true)
 
 ---
 
-📍 Minya, Egypt · Open to collaboration
+📍 Minya, Egypt · Open to collaboration & freelance
