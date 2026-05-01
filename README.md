@@ -2,7 +2,7 @@
 
 **Flutter Developer** | 3rd Year CS Student | Minya, Egypt
 
-> Building production-grade cross-platform apps & exploring AI in mobile
+> Building cross-platform apps & exploring AI in mobile
 
 ---
 
@@ -17,9 +17,9 @@
 
 ---
 
-## 🌟 Featured Project — ZEXO
+## 🚧 In Development — ZEXO
 
-> Full-stack Flutter commerce & order management app — **Live on Google Play**
+> Full-stack Flutter commerce & order management app
 
 A production-grade ordering system for any shop or business.
 Users browse products, manage a local cart, upload payment receipts, track orders, and chat with admins in real time.
@@ -31,9 +31,7 @@ Admins get a full dashboard for products, categories, orders, users, inventory, 
 
 **Auth:** Email / Google / Facebook — role-based routing & user blocking
 
-**Performance:** Cursor pagination · Hive local cart · Firestore transactions · Batch writes · Count aggregations
-
-**Stack:** Flutter · Firebase Auth · Firestore · Cloud Functions · FCM · Supabase Storage · Hive · BLoC/Cubit · Crashlytics
+**Stack:** Flutter · Firebase · Firestore · Cloud Functions · FCM · Supabase Storage · Hive · BLoC/Cubit
 
 ---
 
@@ -41,7 +39,7 @@ Admins get a full dashboard for products, categories, orders, users, inventory, 
 
 | App | Status |
 |---|---|
-| ZEXO (MN - CS1) | ✅ Live |
+| MN - CS1 | ✅ Live |
 | MN - CS2 | ✅ Live |
 
 ---
@@ -64,4 +62,4 @@ Admins get a full dashboard for products, categories, orders, users, inventory, 
 
 ---
 
-📍 Minya, Egypt · Open to collaboration & freelance
+📍 Minya, Egypt · Open to collaboration
