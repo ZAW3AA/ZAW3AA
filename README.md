@@ -35,13 +35,13 @@ Admins get a full dashboard for products, categories, orders, users, inventory, 
 
 ---
 
-## 📲 Published on Google Play — 3 Apps · 349 Users
+## 📲 Published on Google Play — 3 Apps · 346 Real Users
 
 | App | Users |
 |---|---|
 | MN – CS1 | 278 users |
 | MN – CS2 | 68 users |
-| ZEXO | 3 testers (open testing) |
+| ZEXO | Open Testing |
 
 ---
 
@@ -54,12 +54,6 @@ Admins get a full dashboard for products, categories, orders, users, inventory, 
 | [EasyTaskToDo](https://github.com/ZAW3AA/EasyTaskToDo-flutter) | ✅ Clean To-Do app | Flutter |
 | [EasyCalculator](https://github.com/ZAW3AA/EasyCalculator) | 🔢 Calculator app | C++ |
 | [EasyBooklet](https://github.com/ZAW3AA/EasyBooklet) | 📖 Short stories reader | HTML |
-
----
-
-## 📊 GitHub Stats
-
-![Streak](https://streak-stats.demolab.com?user=ZAW3AA&theme=tokyonight&hide_border=true)
 
 ---
 
