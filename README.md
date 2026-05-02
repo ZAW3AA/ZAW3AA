@@ -1,8 +1,8 @@
-[![](https://capsule-render.vercel.app/api?type=venom&height=200&text=MINA%20NABIL&fontSize=70&color=0:00ffe7,100:0066ff&stroke=00ffe7&strokeWidth=2&fontColor=ffffff&fontAlignY=55&desc=Flutter%20Developer%20%7C%20Minya%2C%20Egypt&descAlignY=75&descSize=16)](https://zaw3aa.github.io)
+[![](https://capsule-render.vercel.app/api?type=venom&height=200&text=MINA%20NABIL&fontSize=70&color=0:00ffe7,100:0066ff&stroke=00ffe7&strokeWidth=2&fontColor=ffffff&fontAlignY=55&desc=Flutter%20Developer%20%7C%20Minya%2C%20Egypt&descAlignY=75&descSize=16)](https://mina-nabil-dev.github.io)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00FFE7&center=true&vCenter=true&width=500&lines=Building+production-grade+Flutter+apps;3rd+Year+CS+Student+%40+Minia+University;600%2B+real+users+across+3+published+apps;Currently+building+ZEXO+Commerce+OS)](https://zaw3aa.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00FFE7&center=true&vCenter=true&width=500&lines=Building+production-grade+Flutter+apps;3rd+Year+CS+Student+%40+Minia+University;600%2B+real+users+across+3+published+apps;Currently+building+ZEXO+Commerce+OS)](https://mina-nabil-dev.github.io)
 
 </div>
 
@@ -10,10 +10,10 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/Real_Users-600%2B-00ffe7?style=for-the-badge&labelColor=02030a&color=00ffe7)](https://zaw3aa.github.io)
-[![](https://img.shields.io/badge/Apps_on_Play-3-0066ff?style=for-the-badge&labelColor=02030a&color=0066ff)](https://zaw3aa.github.io)
-[![](https://img.shields.io/badge/Open_Source-5_Projects-7000ff?style=for-the-badge&labelColor=02030a&color=7000ff)](https://zaw3aa.github.io)
-[![](https://img.shields.io/badge/Status-Available_for_Freelance-00ff88?style=for-the-badge&labelColor=02030a&color=00ff88)](https://zaw3aa.github.io)
+[![](https://img.shields.io/badge/Real_Users-600%2B-00ffe7?style=for-the-badge&labelColor=02030a&color=00ffe7)](https://mina-nabil-dev.github.io)
+[![](https://img.shields.io/badge/Apps_on_Play-3-0066ff?style=for-the-badge&labelColor=02030a&color=0066ff)](https://mina-nabil-dev.github.io)
+[![](https://img.shields.io/badge/Open_Source-5_Projects-7000ff?style=for-the-badge&labelColor=02030a&color=7000ff)](https://mina-nabil-dev.github.io)
+[![](https://img.shields.io/badge/Status-Available_for_Freelance-00ff88?style=for-the-badge&labelColor=02030a&color=00ff88)](https://mina-nabil-dev.github.io)
 
 </div>
 
@@ -39,12 +39,12 @@
 
 <div align="center">
 
-[![Flutter](https://img.shields.io/badge/Flutter-Expert-00ffe7?style=flat-square&logo=flutter&logoColor=00ffe7&labelColor=02030a)](https://zaw3aa.github.io)
-[![Dart](https://img.shields.io/badge/Dart-Expert-00ffe7?style=flat-square&logo=dart&logoColor=00ffe7&labelColor=02030a)](https://zaw3aa.github.io)
-[![Firebase](https://img.shields.io/badge/Firebase-Advanced-ff9900?style=flat-square&logo=firebase&logoColor=ff9900&labelColor=02030a)](https://zaw3aa.github.io)
-[![Supabase](https://img.shields.io/badge/Supabase-Advanced-3ecf8e?style=flat-square&logo=supabase&logoColor=3ecf8e&labelColor=02030a)](https://zaw3aa.github.io)
-[![BLoC](https://img.shields.io/badge/BLoC%2FCubit-Expert-0066ff?style=flat-square&logo=dart&logoColor=0066ff&labelColor=02030a)](https://zaw3aa.github.io)
-[![C++](https://img.shields.io/badge/C++-Intermediate-7000ff?style=flat-square&logo=cplusplus&logoColor=7000ff&labelColor=02030a)](https://zaw3aa.github.io)
+[![Flutter](https://img.shields.io/badge/Flutter-Expert-00ffe7?style=flat-square&logo=flutter&logoColor=00ffe7&labelColor=02030a)](https://mina-nabil-dev.github.io)
+[![Dart](https://img.shields.io/badge/Dart-Expert-00ffe7?style=flat-square&logo=dart&logoColor=00ffe7&labelColor=02030a)](https://mina-nabil-dev.github.io)
+[![Firebase](https://img.shields.io/badge/Firebase-Advanced-ff9900?style=flat-square&logo=firebase&logoColor=ff9900&labelColor=02030a)](https://mina-nabil-dev.github.io)
+[![Supabase](https://img.shields.io/badge/Supabase-Advanced-3ecf8e?style=flat-square&logo=supabase&logoColor=3ecf8e&labelColor=02030a)](https://mina-nabil-dev.github.io)
+[![BLoC](https://img.shields.io/badge/BLoC%2FCubit-Expert-0066ff?style=flat-square&logo=dart&logoColor=0066ff&labelColor=02030a)](https://mina-nabil-dev.github.io)
+[![C++](https://img.shields.io/badge/C++-Intermediate-7000ff?style=flat-square&logo=cplusplus&logoColor=7000ff&labelColor=02030a)](https://mina-nabil-dev.github.io)
 
 </div>
 
@@ -103,9 +103,9 @@ Full-stack Flutter ordering system for any shop or business. Real-time admin das
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0066ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=02030a)](https://linkedin.com/in/mina-nabil-97bb1b300)
-[![GitHub](https://img.shields.io/badge/GitHub-@ZAW3AA-00ffe7?style=for-the-badge&logo=github&logoColor=white&labelColor=02030a)](https://github.com/ZAW3AA)
+[![GitHub](https://img.shields.io/badge/GitHub-@ZAW3AA-00ffe7?style=for-the-badge&logo=github&logoColor=white&labelColor=02030a)](https://github.com/mina-nabil-dev.github.io)
 [![Facebook](https://img.shields.io/badge/Facebook-Mina_Nabil-1877f2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=02030a)](https://www.facebook.com/profile.php?id=61550226644154)
-[![Portfolio](https://img.shields.io/badge/Portfolio-zaw3aa.github.io-7000ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=02030a)](https://zaw3aa.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zaw3aa.github.io-7000ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=02030a)](https://mina-nabil-dev.github.io)
 
 </div>
 
@@ -113,8 +113,8 @@ Full-stack Flutter ordering system for any shop or business. Real-time admin das
 
 <div align="center">
 
-[![](https://capsule-render.vercel.app/api?type=waving&height=80&color=0:7000ff,100:00ffe7&section=footer)](https://zaw3aa.github.io)
+[![](https://capsule-render.vercel.app/api?type=waving&height=80&color=0:7000ff,100:00ffe7&section=footer)](https://mina-nabil-dev.github.io)
 
-*[`© 2025 Mina Nabil — Every line ships to production`](https://zaw3aa.github.io)*
+*[`© 2025 Mina Nabil — Every line ships to production`](https://mina-nabil-dev.github.io)*
 
 </div>
