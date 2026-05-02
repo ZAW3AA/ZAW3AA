@@ -80,11 +80,11 @@ Full-stack Flutter ordering system for any shop or business. Real-time admin das
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**MotoRent** ↗](https://github.com/ZAW3AA/MotoRent) | Car rental platform | Flutter · Dart |
-| [**EasyGPS** ↗](https://github.com/ZAW3AA/EasyGPS) | Real-time GPS tracking | Flutter · Maps API |
-| [**EasyTaskToDo** ↗](https://github.com/ZAW3AA/EasyTaskToDo-flutter) | Clean To-Do app | Flutter · Hive |
-| [**EasyCalculator** ↗](https://github.com/ZAW3AA/EasyCalculator) | Calculator app | C++ |
-| [**EasyBooklet** ↗](https://github.com/ZAW3AA/EasyBooklet) | Short stories reader | HTML · CSS |
+| [**MotoRent** ↗](https://github.com/mina-nabil-dev/MotoRent) | Car rental platform | Flutter · Dart |
+| [**EasyGPS** ↗](https://github.com/mina-nabil-dev/EasyGPS) | Real-time GPS tracking | Flutter · Maps API |
+| [**EasyTaskToDo** ↗](https://github.com/mina-nabil-dev/EasyTaskToDo-flutter) | Clean To-Do app | Flutter · Hive |
+| [**EasyCalculator** ↗](https://github.com/mina-nabil-dev/EasyCalculator) | Calculator app | C++ |
+| [**EasyBooklet** ↗](https://github.com/mina-nabil-dev/EasyBooklet) | Short stories reader | HTML · CSS |
 
 ---
 
