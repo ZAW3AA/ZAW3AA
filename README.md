@@ -115,6 +115,6 @@ Full-stack Flutter ordering system for any shop or business. Real-time admin das
 
 [![](https://capsule-render.vercel.app/api?type=waving&height=80&color=0:7000ff,100:00ffe7&section=footer)](https://mina-nabil-dev.github.io)
 
-*[`© 2025 Mina Nabil — Every line ships to production`](https://mina-nabil-dev.github.io)*
+*[`© 2026 Mina Nabil — Every line ships to production`](https://mina-nabil-dev.github.io)*
 
 </div>
