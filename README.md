@@ -130,7 +130,7 @@ A **production-grade ordering and commerce management system** for any shop or b
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mina-nabil-dev&theme=github-dark-blue&background=02030a&border=00ffe7&stroke=0066ff&ring=00ffe7&fire=ff006a&currStreakNum=00ffe7&sideNums=e0f0ff&currStreakLabel=0066ff&sideLabels=6080a0&dates=6080a0)](https://github.com/mina-nabil-dev)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mina-nabil-dev&show_icons=true&theme=github_dark&bg_color=02030a&border_color=00ffe7&icon_color=00ffe7&title_color=00ffe7&text_color=6080a0&hide_border=false)](https://github.com/mina-nabil-dev)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mina-nabil-dev&theme=github_dark)](https://github.com/mina-nabil-dev)
 
 </div>
 
